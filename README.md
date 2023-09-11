@@ -1,6 +1,6 @@
-Version 2023-07-21-001.
+# Basic Democracy
 
-## Basic Democracy
+Version 2023-09-11-003.
 
 This site will be a description of basic democracy.
 
